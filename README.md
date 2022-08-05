@@ -1,5 +1,5 @@
 # merge_data_project
-**Showcasing some techniques to merge and interact with data using Python's Pandas library.**
+*Showcasing some techniques to merge and interact with data using Python's Pandas library.*
 
 **Purpose**: The goal of this project was to practice some of the techniques I've been using at work. I designed this project to make the data and process very similar. 
 
